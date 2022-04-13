@@ -1,6 +1,6 @@
 Welcome! 
 
-This is a collection of resources for LCC advisors and faculty mentors working with students in Accounting, Business, and Leadership pathway.
+This is a collection of resources for LCC advisors and faculty mentors working with students within the Accounting, Business, and Leadership pathway.
 
 <hr>
 
