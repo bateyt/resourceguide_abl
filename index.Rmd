@@ -16,10 +16,11 @@ github-repo: bateyt/resourceguide_abl
 
 # About
 
+This document is a resource guide for advisors and faculty mentors working with students within the Accounting, Business, and Leadership pathway.
 
 ## Usage 
 
-
+Each chapter provides details for related programs at LCC's most common transfer institutions.
 
 
 
