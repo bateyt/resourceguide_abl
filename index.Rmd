@@ -1,5 +1,5 @@
 --- 
-title: "Advisor/Mentor Pathway Resource Guide"
+title: "LCC Pathway Resource Guide"
 subtitle: "Accounting, Business, and Leadership"
 author: ""
 date: "`r Sys.Date()`"
