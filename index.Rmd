@@ -16,7 +16,7 @@ github-repo: bateyt/resourceguide_abl
 
 # About {-}
 
-This document is a resource guide for advisors and faculty mentors working with students within the Accounting, Business, and Leadership pathway. For general transfer resources, please see the [General Transfer Guide](https://bateyt.github.io/resourceguide_gentransfer).
+This document is a resource guide for advisors and faculty mentors working with students within the Accounting, Business, and Leadership pathway. For general transfer resources, please see the [General Transfer Resource Guide](https://bateyt.github.io/resourceguide_gentransfer).
 
 ## Usage {-}
 
