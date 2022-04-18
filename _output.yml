@@ -3,7 +3,7 @@ bookdown::gitbook:
   config:
     toc:
       before: |
-        <li><a href="./">Pathway Resource Guide---Accounting, Business, and Leadership</a></li>
+        <li><a href="./">Pathway Resource Guide | Accounting, Business, and Leadership</a></li>
       after: |
         <li><a href="https://github.com/bateyt/resourceguide_abl" target="blank">Published with bookdown</a></li>
     edit: https://github.com/USERNAME/REPO/edit/BRANCH/%s
